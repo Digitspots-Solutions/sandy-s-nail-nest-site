@@ -1,0 +1,49 @@
+{
+  "businessName": "Sandy's Nail Nest",
+  "industry": "Fashion and Creative Design",
+  "tone": "warm, friendly, stylish",
+  "tagline": "Where Style Meets Artistry",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Sandy's Nail Nest - Your Premier Nail Art Destination in Karu. Experience the perfect blend of creativity, precision, and pampering. From classic manicures to stunning nail art designs, we transform your nails into beautiful works of art.",
+      "imagePrompt": "Elegant Nigerian nail salon interior with warm ambient lighting, showcasing beautifully manicured hands with artistic nail designs, soft pink and gold color palette, luxury beauty treatment setting, modern comfortable nail station with professional equipment, photorealistic, high-end beauty spa atmosphere in Karu Nigeria",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "At Sandy's Nail Nest, we believe every woman deserves to feel confident and beautiful. Located in the heart of Karu, Nasarawa State, we've built a reputation as the go-to destination for exceptional nail care and creative designs. Our passion is bringing your nail art dreams to life with precision, hygiene, and artistic flair. Whether you're preparing for a special occasion or simply treating yourself to some self-care, our skilled team ensures every visit leaves you feeling pampered and polished.",
+      "imagePrompt": "Warm inviting Nigerian nail salon atmosphere, close-up of professional nail technician carefully applying nail polish to a client's hand, natural lighting through windows, cozy interior with plants and beauty products display, authentic African beauty care setting, photorealistic, friendly welcoming environment",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Classic Manicure & Pedicure: Treat your hands and feet to our signature spa treatment with nail shaping, cuticle care, exfoliation, massage, and polish. Perfect for maintaining healthy, beautiful nails.\n\nGel & Acrylic Nails: Long-lasting, durable nail enhancements that keep you looking fabulous for weeks. Choose from a variety of styles, lengths, and finishes.\n\nCustom Nail Art: Express your personality with our bespoke nail art designs. From elegant French tips to bold patterns, 3D embellishments, and seasonal themes - we bring your vision to life.\n\nNail Extensions: Add length and strength to your natural nails with our professional extension services using premium materials.\n\nBridal & Special Occasion Nails: Make your special day even more memorable with our luxurious bridal nail packages. We create stunning designs that complement your style and theme.\n\nNail Care & Treatment: Restore and strengthen damaged nails with our specialized treatment services including nail repair, strengthening treatments, and cuticle therapy.",
+      "imagePrompt": "Grid collage of diverse nail art styles showcasing various services: classic French manicure, colorful gel nails with African-inspired patterns, elegant bridal nails with rhinestones, trendy acrylic extensions, detailed nail art designs, all photographed on diverse Nigerian skin tones, professional beauty photography, bright clean lighting",
+      "layout": "grid"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Clients Say",
+      "copy": "\"Sandy's Nail Nest is my absolute favorite! The attention to detail and creativity is unmatched. My nails always look stunning and last for weeks.\" - Blessing O.\n\n\"I've been coming here for over a year and I won't go anywhere else. The atmosphere is so relaxing and Sandy really listens to what you want. Highly recommend!\" - Fatima A.\n\n\"Best nail salon in Karu! Professional, clean, and the nail art designs are just incredible. I always get compliments on my nails.\" - Chioma M.\n\n\"From the moment you walk in, you feel special. The service is excellent and the results are always beyond my expectations. Worth every naira!\" - Ngozi E.",
+      "imagePrompt": "Happy Nigerian women of various ages admiring their freshly manicured nails, bright smiles, diverse group showing off different nail art styles, warm salon background, genuine authentic emotions, community feeling, photorealistic, natural candid photography style",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Ready to pamper yourself? Book your appointment today and discover why Sandy's Nail Nest is Karu's favorite nail destination. Walk-ins are welcome, but appointments are recommended to ensure your preferred time slot.\n\nOpening Hours:\nMonday - Saturday: 9:00 AM - 7:00 PM\nSunday: By Appointment Only\n\nWe're conveniently located in Karu, Nasarawa State, and we look forward to welcoming you to our nest!",
+      "imagePrompt": "Inviting Nigerian nail salon storefront in Karu, clear signage with 'Sandy's Nail Nest', welcoming entrance with glass windows showing glimpse of interior, local Nasarawa street context, daytime photography, professional business exterior, vibrant and approachable aesthetic, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08026453034",
+    "email": "info@sandysnailnest.com",
+    "address": "Karu, Nasarawa State, Nigeria",
+    "whatsapp": "https://wa.me/2348026453034"
+  }
+}
