@@ -1,48 +1,48 @@
 {
-  "businessName": "Sandy's Nail Nest",
-  "industry": "Fashion and Creative Design",
-  "tone": "warm, friendly, stylish",
-  "tagline": "Where Style Meets Artistry",
+  "businessName": "Jenny Stitches Stockbrokers Limited",
+  "industry": "Financial Services - Stockbroking",
+  "tone": "formal",
+  "tagline": "Your Trusted Partner in Nigerian Capital Markets",
   "sections": [
     {
       "id": "hero",
       "name": "Hero",
-      "copy": "Welcome to Sandy's Nail Nest - Your Premier Nail Art Destination in Karu. Experience the perfect blend of creativity, precision, and pampering. From classic manicures to stunning nail art designs, we transform your nails into beautiful works of art.",
-      "imagePrompt": "Elegant Nigerian nail salon interior with warm ambient lighting, showcasing beautifully manicured hands with artistic nail designs, soft pink and gold color palette, luxury beauty treatment setting, modern comfortable nail station with professional equipment, photorealistic, high-end beauty spa atmosphere in Karu Nigeria",
+      "copy": "Welcome to Jenny Stitches Stockbrokers Limited. Navigate the Nigerian Stock Exchange with confidence. We provide expert stockbroking services, investment advisory, and portfolio management solutions tailored to help you achieve your financial goals. Licensed and regulated for your peace of mind.",
+      "imagePrompt": "Professional Nigerian stock market trading floor with modern digital screens showing NSE ticker symbols, Nigerian businesspeople in corporate attire analyzing financial charts, bright natural lighting, sophisticated blue and gold color scheme, photorealistic, high-end financial institution atmosphere",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "At Sandy's Nail Nest, we believe every woman deserves to feel confident and beautiful. Located in the heart of Karu, Nasarawa State, we've built a reputation as the go-to destination for exceptional nail care and creative designs. Our passion is bringing your nail art dreams to life with precision, hygiene, and artistic flair. Whether you're preparing for a special occasion or simply treating yourself to some self-care, our skilled team ensures every visit leaves you feeling pampered and polished.",
-      "imagePrompt": "Warm inviting Nigerian nail salon atmosphere, close-up of professional nail technician carefully applying nail polish to a client's hand, natural lighting through windows, cozy interior with plants and beauty products display, authentic African beauty care setting, photorealistic, friendly welcoming environment",
+      "copy": "Jenny Stitches Stockbrokers Limited is a registered stockbroking firm operating from Karu, Nasarawa State. We are committed to democratizing access to the Nigerian capital markets by providing reliable, transparent, and professional investment services. Our team combines deep market knowledge with personalized client service to help individuals and institutions build wealth through strategic equity investments. Whether you're a first-time investor or an experienced trader, we offer the expertise and support you need to succeed in Nigeria's dynamic financial markets.",
+      "imagePrompt": "Modern Nigerian financial office interior in Karu with professional stockbrokers consulting with clients, large windows showing Nigerian cityscape, sleek furniture, financial documents and tablets on conference table, warm professional lighting, corporate yet approachable atmosphere, photorealistic",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "Classic Manicure & Pedicure: Treat your hands and feet to our signature spa treatment with nail shaping, cuticle care, exfoliation, massage, and polish. Perfect for maintaining healthy, beautiful nails.\n\nGel & Acrylic Nails: Long-lasting, durable nail enhancements that keep you looking fabulous for weeks. Choose from a variety of styles, lengths, and finishes.\n\nCustom Nail Art: Express your personality with our bespoke nail art designs. From elegant French tips to bold patterns, 3D embellishments, and seasonal themes - we bring your vision to life.\n\nNail Extensions: Add length and strength to your natural nails with our professional extension services using premium materials.\n\nBridal & Special Occasion Nails: Make your special day even more memorable with our luxurious bridal nail packages. We create stunning designs that complement your style and theme.\n\nNail Care & Treatment: Restore and strengthen damaged nails with our specialized treatment services including nail repair, strengthening treatments, and cuticle therapy.",
-      "imagePrompt": "Grid collage of diverse nail art styles showcasing various services: classic French manicure, colorful gel nails with African-inspired patterns, elegant bridal nails with rhinestones, trendy acrylic extensions, detailed nail art designs, all photographed on diverse Nigerian skin tones, professional beauty photography, bright clean lighting",
-      "layout": "grid"
-    },
-    {
-      "id": "testimonials",
-      "name": "What Our Clients Say",
-      "copy": "\"Sandy's Nail Nest is my absolute favorite! The attention to detail and creativity is unmatched. My nails always look stunning and last for weeks.\" - Blessing O.\n\n\"I've been coming here for over a year and I won't go anywhere else. The atmosphere is so relaxing and Sandy really listens to what you want. Highly recommend!\" - Fatima A.\n\n\"Best nail salon in Karu! Professional, clean, and the nail art designs are just incredible. I always get compliments on my nails.\" - Chioma M.\n\n\"From the moment you walk in, you feel special. The service is excellent and the results are always beyond my expectations. Worth every naira!\" - Ngozi E.",
-      "imagePrompt": "Happy Nigerian women of various ages admiring their freshly manicured nails, bright smiles, diverse group showing off different nail art styles, warm salon background, genuine authentic emotions, community feeling, photorealistic, natural candid photography style",
+      "copy": "**Equity Trading & Execution**\nBuy and sell shares on the Nigerian Stock Exchange (NSE) with competitive brokerage rates and fast execution. We handle all trading processes seamlessly on your behalf.\n\n**Investment Advisory**\nReceive expert guidance on stock selection, market timing, and portfolio construction. Our research-driven recommendations are tailored to your risk appetite and financial objectives.\n\n**Portfolio Management**\nLet us actively manage your investment portfolio with professional oversight. We monitor market trends, rebalance holdings, and optimize returns while managing risk.\n\n**Account Opening & KYC Services**\nWe simplify the process of opening your trading account and CSCS account with full regulatory compliance and documentation support.\n\n**Market Research & Analysis**\nAccess detailed research reports, sector analysis, and market commentary to make informed investment decisions in the Nigerian equity market.",
+      "imagePrompt": "Collage of Nigerian financial services: diverse scenes showing stock charts on computer screens with NSE logos, professional consultations between brokers and clients, portfolio documents with Nigerian company names, modern office settings with Nigerian business context, clean professional photography, financial blue tones",
       "layout": "cards"
     },
     {
       "id": "contact",
-      "name": "Visit Us Today",
-      "copy": "Ready to pamper yourself? Book your appointment today and discover why Sandy's Nail Nest is Karu's favorite nail destination. Walk-ins are welcome, but appointments are recommended to ensure your preferred time slot.\n\nOpening Hours:\nMonday - Saturday: 9:00 AM - 7:00 PM\nSunday: By Appointment Only\n\nWe're conveniently located in Karu, Nasarawa State, and we look forward to welcoming you to our nest!",
-      "imagePrompt": "Inviting Nigerian nail salon storefront in Karu, clear signage with 'Sandy's Nail Nest', welcoming entrance with glass windows showing glimpse of interior, local Nasarawa street context, daytime photography, professional business exterior, vibrant and approachable aesthetic, photorealistic",
+      "name": "Contact Us",
+      "copy": "Ready to start your investment journey or have questions about our services? Get in touch with Jenny Stitches Stockbrokers Limited today.\n\n**Office Address:**\nKaru, Nasarawa State, Nigeria\n\n**Phone:**\n+234 802 645 3034\n\n**Email:**\ninfo@jennystitches.org\n\nOur team is available during market hours (Monday to Friday, 9:00 AM - 5:00 PM) to assist with account inquiries, trade execution, and investment consultation. For urgent trading matters, please call us directly.",
+      "imagePrompt": "Professional Nigerian office reception area in Karu with comfortable seating, Jenny Stitches Stockbrokers branding on wall, modern minimalist design, natural light through large windows, welcoming atmosphere, financial publications on coffee table, photorealistic corporate setting",
       "layout": "centered"
+    },
+    {
+      "id": "faq",
+      "name": "Frequently Asked Questions",
+      "copy": "**How do I open a trading account?**\nContact us via phone or WhatsApp. We'll guide you through the simple documentation process including identity verification, bank details, and CSCS registration. Account opening typically takes 3-5 business days.\n\n**What is the minimum investment amount?**\nYou can start investing with as little as ₦10,000, though we recommend starting with ₦50,000 or more to allow for proper portfolio diversification.\n\n**What are your brokerage fees?**\nOur competitive brokerage commission is charged per transaction in accordance with NSE regulations. Contact us for our current fee schedule and any promotional rates for new clients.\n\n**How safe is my investment?**\nJenny Stitches Stockbrokers Limited operates under the full regulation of the Securities and Exchange Commission (SEC) of Nigeria. Your securities are held in your name at the Central Securities Clearing System (CSCS), ensuring maximum safety and transparency.\n\n**Can I access my portfolio online?**\nYes, we provide regular portfolio statements and updates. Contact us to discuss online access options and mobile trading capabilities.",
+      "imagePrompt": "Clean, modern FAQ section design with Nigerian business context, subtle financial icons, professional color palette of navy blue and white, documents and question marks in elegant layout, bright professional photography style, trustworthy corporate aesthetic",
+      "layout": "default"
     }
   ],
   "contact": {
-    "phone": "08026453034",
-    "email": "info@sandysnailnest.com",
+    "phone": "+234 802 645 3034",
+    "email": "info@jennystitches.org",
     "address": "Karu, Nasarawa State, Nigeria",
     "whatsapp": "https://wa.me/2348026453034"
   }
